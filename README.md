@@ -1,6 +1,6 @@
 # Devops Engineer
 
-focused on infrastructure, automation, reliability and backend development in java
+focused on infrastructure, automation, reliability and backend development on python
 
 ## Things I code with
 
@@ -13,7 +13,7 @@ focused on infrastructure, automation, reliability and backend development in ja
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white)
 
